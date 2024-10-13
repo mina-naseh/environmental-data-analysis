@@ -1,8 +1,7 @@
 .DS_Store
 # data/
 # kaggle.json
-
-data/shahre-rey\ tehran-air-quality.csv
-data/sharif-university\ tehran-air-quality.csv
+data/shahre-rey, tehran-air-quality.csv
+data/shahre-rey, tehran-air-quality.csv
 Project_1_Aleksandra.ipynb
 Project_1_Mina.ipynb
